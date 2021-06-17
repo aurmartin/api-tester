@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>folder.png</file>
+        <file>archive.png</file>
+        <file>globe.png</file>
+    </qresource>
+</RCC>
